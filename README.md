@@ -1,1 +1,1 @@
-Simple JSON String pasrer implemented in Python.
+Simple JSON String parser implemented in Python.
